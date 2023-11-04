@@ -11,7 +11,6 @@ Welcome to the AutoCAD Course Assignments! This README file provides an overview
 3. [Instructions](#instructions)
 4. [Submission](#submission)
 5. [Feedback](#feedback)
-6. [Resources](#resources)
 
 ## Assignment Description
 
@@ -62,7 +61,3 @@ Make sure to follow the submission guidelines and deadlines for each assignment 
 After submitting your assignments, you will receive feedback from your instructor or course facilitator. This feedback will include an evaluation of your work, comments on your design or drafting, and suggestions for improvement.
 
 Use this feedback as an opportunity to learn and enhance your AutoCAD skills. Address any issues or recommendations provided by the instructor to improve your future assignments.
-
-## Resources
-
-Throughout the course, you may receive reference materials, AutoCAD tutorials, and other resources to assist you in completing the assignments. Make use of these resources to build your skills and tackle the tasks effectively.
